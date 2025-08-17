@@ -74,6 +74,12 @@ Enter a description (e.g., "Astronaut riding a horse") and click Generate.
 
 The generated image will appear on the page.
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/a3ead841-5e82-4eb0-8b7f-ef08dd0213a2" />
+
+<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/e40d6115-1a89-4465-9cd5-d9b8c9628590" />
+
+
+
 📌 Future Improvements
 
  Add support for multiple image sizes.
